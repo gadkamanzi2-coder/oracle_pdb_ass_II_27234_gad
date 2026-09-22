@@ -57,7 +57,7 @@ I confirm that the work presented in this repository is my own work and that the
 
 ## Submission Details
 
-**Repository Link:** [GitHub URL]
+**Repository Link:** [https://github.com/gadkamanzi2-coder/oracle_pdb_ass_II_27234_gad]
 
 **PDB Name Created:** GA_PDB_27234
 
